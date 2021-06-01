@@ -22,7 +22,7 @@ This script works using Python 3.7+.
 
 Logging in command line:
 
-![cmd_interface](example\cmd_interface.png)
+![cmd_interface](example/cmd_interface.png)
 
 Example result after converting the CSV rows to JSON:
 
