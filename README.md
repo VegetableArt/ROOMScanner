@@ -1,6 +1,6 @@
 # ROOMScanner
 
-This script can be used to scrape the available rooms on [ROOM.nl](ROOM.nl). This script was made because I was looking for a room and wanted to scan the progress my rank made over time (how my chance of getting a room improved). Later I also added notification mails to it so in case new "Direct offer" rooms were available I would get a mail and could apply to the room asap to have a high chance of getting the room.
+This script can be used to scrape the available rooms on [http://ROOM.nl](ROOM.nl). This script was made because I was looking for a room and wanted to scan the progress my rank made over time (how my chance of getting a room improved). Later I also added notification mails to it so in case new "Direct offer" rooms were available I would get a mail and could apply to the room asap to have a high chance of getting the room.
 
 ## Installation and set-up
 
@@ -15,7 +15,7 @@ This script works using Python 3.7+.
 
 ## Functionalities
 
-- Scan available rooms on [ROOM.nl](ROOM.nl) and save them in a CSV file
+- Scan available rooms on [http://ROOM.nl](ROOM.nl) and save them in a CSV file
 - Notify user when new rooms are added
 
 ## Example results
