@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Personal setup
+Roomscanner_setup.txt
+
+# Chromedriver
+chromedriver.exe
+
 # C extensions
 *.so
 
